@@ -1,2 +1,2 @@
 # practise-github
-Its suzana
+its suzana
